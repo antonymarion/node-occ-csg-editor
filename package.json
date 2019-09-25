@@ -6,7 +6,7 @@
     "url": "https://github.com/OpenWebCAD/node-occ-csg-editor/issues"
   },
   "dependencies": {
-    "serialijse": "^0.1.3",
+    "serialijse": "git+https://github.com/antonymarion/serialijse.git",
     "underscore": "^1.9.1",
     "split-retain": "^1.0.1"
   },
